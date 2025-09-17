@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muammal A. Fadhil</h1>
-<h3 align="center">An Inspiring AI Researcher / Developer from Iraq!</h3>
+<h3 align="center">A Typical AI Researcher / Developer from Iraq!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muammal&label=Profile%20views&color=0e75b6&style=flat" alt="muammal" /> </p>
 
