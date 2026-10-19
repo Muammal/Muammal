@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Agentic Modeling**
 
-- 📝 I regularly post articles on [T.me/Acceleration_iq](T.me/Acceleration_iq)
+- 📝 Founder of t.me/AiDevFest
 
 - 📫 How to reach me **Cas.DropMail@gmail.com**
 
